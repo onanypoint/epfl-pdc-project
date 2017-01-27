@@ -1,0 +1,5 @@
+pyaudio
+numpy
+nose
+scipy
+matplotlib
