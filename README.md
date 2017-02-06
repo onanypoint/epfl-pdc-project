@@ -1,6 +1,8 @@
 # Text transfert over audio channel
 Project for the 2015 [Principles of Digital Communications](http://ipg.epfl.ch/page-136504-en.html) class taught by Prof. Emere Telatar at the [Swiss Federal Institute of Technology in Lausanne](https://epfl.ch/) (EPFL) in Switzerland.
 
+This is a rewrite of the original project. The original project was done in collaboration with [Gaspard Zoss](https://github.com/gaspardzoss/).
+
 ## Assignment
 Develop a proof of concept to show that we can exchange files “over the air” between two laptops, by using the speaker of one laptop as the transmitting device and the microphone of the other laptop as the receiving device in presence of an interfering third party.
 
